@@ -4,9 +4,9 @@ This project aims to analyze the sales data of a coffee shop to gain insights in
 
 ## Project Structure 📂
 The project is structured as follows:
-- `data/`: Contains the datasets used for analysis.
-- `scripts/`: Includes Python scripts for data preprocessing, analysis, and visualization.
-- `reports/`: Contains generated reports, charts, and visualizations.
+- `dataset/`: Contains the datasets used for analysis.
+- `python files/`: Includes Python scripts for data preprocessing, analysis, and visualization.
+- `sql files/`: Includes SQL scripts for data preprocessing, analysis, and visualization.
 - `README.md`: This file, providing an overview, problem statement, requirements, and project structure.
 
 ## Problem Statement 🎯
