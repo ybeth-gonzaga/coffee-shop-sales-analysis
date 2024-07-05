@@ -45,7 +45,7 @@
 -- -- • Calculate the difference in sales between the selected month and the previous month.
 -- SELECT 
 -- 	MONTH(transaction_date) AS month,
---     SUM(transaction_qty * unit_price) AS total_sales,
+--     ROUND(SUM(transaction_qty * unit_price)) AS total_sales,
 --     (SUM(transaction_qty * unit_price) - LAG(SUM(transaction_qty * unit_price),1) OVER (ORDER BY MONTH(transaction_date))) AS sales_difference
 -- FROM coffee_shop_sales
 -- WHERE
