@@ -1,15 +1,15 @@
 # Coffee Shop Sales Analysis ☕📊
-## Overview ℹ️
+## ✍️ Overview
 This project aims to analyze the sales data of a coffee shop to gain insights into various key performance indicators (KPIs) and visualize the findings through interactive charts. By analyzing total sales, orders, quantity sold, and other metrics, stakeholders can make informed decisions to optimize business operations and improve profitability.
 
-## Project Structure 📂
+## 📂 Project Structure
 The project is structured as follows:
 - `dataset/`: Contains the datasets used for analysis.
 - `python files/`: Includes Python scripts for data preprocessing, analysis, and visualization.
 - `sql files/`: Includes SQL scripts for data preprocessing, analysis, and visualization.
 - `README.md`: This file, providing an overview, problem statement, requirements, and project structure.
 
-## Problem Statement 🎯
+## 🎯 Problem Statement 
 
 ### KPI's Requirements 📈
 1. **Total Sales Analysis:**
@@ -51,7 +51,7 @@ The project is structured as follows:
    - Utilize a heat map to visualize sales patterns by days and hours.
    - Implement tooltips to display detailed metrics (Sales, Orders, Quantity) when hovering over a specific day-hour.
   
-## Results and Key Performance Indicators (KPIs) 📊
+## 📈 Results and Key Performance Indicators (KPIs) 
 
 ### 1. **Total Sales Analysis**
 | Month  | Total Sales | Sales Difference | % Change MoM |
